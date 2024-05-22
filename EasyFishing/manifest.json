@@ -1,0 +1,10 @@
+﻿{
+  "Name": "EasyFishing",
+  "Author": "starcrusher777",
+  "Version": "1.0.0",
+  "Description": "Этот мод упрощает мини-игру по рыбалке.",
+  "UniqueID": "starcrusher777.EasyFishing",
+  "EntryDll": "EasyFishing.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

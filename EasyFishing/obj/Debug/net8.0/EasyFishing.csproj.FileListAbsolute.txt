@@ -1,0 +1,34 @@
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\EasyFishing.deps.json
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\EasyFishing.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\EasyFishing.pdb
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\Stardew Valley.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\StardewModdingAPI.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\xTile.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\StardewValley.GameData.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\Steamworks.NET.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\GalaxyCSharp.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\Lidgren.Network.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\System.Data.HashFunction.Interfaces.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\BmFont.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\TextCopy.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\System.Data.HashFunction.xxHash.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\FAudio-CS.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\System.Data.HashFunction.Core.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\Stardew Valley.xml
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\StardewModdingAPI.xml
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\StardewModdingAPI.exe.config
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\MonoGame.Framework.xml
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\bin\Debug\net8.0\StardewValley.GameData.xml
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.csproj.AssemblyReference.cache
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.AssemblyInfoInputs.cache
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.AssemblyInfo.cs
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.csproj.CoreCompileInputs.cache
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.csproj.CopyComplete
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\refint\EasyFishing.dll
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\EasyFishing.pdb
+C:\Users\Ян\RiderProjects\EasyFishing\EasyFishing\obj\Debug\net8.0\ref\EasyFishing.dll
